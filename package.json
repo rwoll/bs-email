@@ -1,6 +1,6 @@
 {
   "name": "bs-email",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A stream interface for sending emails that works with bunyan logger.",
   "main": "index.js",
   "scripts": {
